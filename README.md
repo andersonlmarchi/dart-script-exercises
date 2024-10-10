@@ -1,6 +1,6 @@
-# Projeto de Desenvolvimento Mobile
+# Projeto de Desenvolvimento para Dispositivos Móveis
 
-Este projeto faz parte da disciplina de Desenvolvimento Mobile do curso de Ciência da Computação. O objetivo é desenvolver uma aplicação mobile utilizando Dart.
+Este projeto faz parte da disciplina de Desenvolvimento para Dispositivos Móveis do curso de Ciência da Computação. O objetivo dessa matéria é aprender a desenvolver uma aplicação mobile utilizando Dart e Flutter. Esse projeto é apenas exercícios para aprender a linguagem de programação.
 
 ## Clonando o Repositório
 
