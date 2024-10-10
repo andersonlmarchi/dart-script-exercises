@@ -7,7 +7,7 @@ Este projeto faz parte da disciplina de Desenvolvimento Mobile do curso de Ciên
 Para clonar o repositório, execute o seguinte comando no terminal:
 
 ```sh
-git clone <URL_DO_REPOSITORIO>
+git clone git@github.com:andersonlmarchi/dart-script-exercises.git
 ```
 
 ## Executando o Projeto
